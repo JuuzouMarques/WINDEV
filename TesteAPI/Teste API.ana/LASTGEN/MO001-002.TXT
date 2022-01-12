@@ -1,0 +1,15 @@
+//MO001-002.TXT ANA00001 TO ANA00002
+diaria		TAR	681	new record size: 681
+diaria	DAT_MED	RUB+		DAT_MED is a new item
+diaria	COD_EST	RUB+		COD_EST is a new item
+diaria	NOME	RUB+		NOME is a new item
+diaria	UF	RUB+		UF is a new item
+diaria	LATITUDE	RUB+		LATITUDE is a new item
+diaria	LONGITUDE	RUB+		LONGITUDE is a new item
+diaria	TEMP_MIN	RUB+		TEMP_MIN is a new item
+diaria	TEMP_MED	RUB+		TEMP_MED is a new item
+diaria	TEMP_MAX	RUB+		TEMP_MAX is a new item
+diaria	UMID_MIN	RUB+		UMID_MIN is a new item
+diaria	UMID_MED	RUB+		UMID_MED is a new item
+diaria	VEL_VEN	RUB+		VEL_VEN is a new item
+diaria	CHUVA	RUB+		CHUVA is a new item

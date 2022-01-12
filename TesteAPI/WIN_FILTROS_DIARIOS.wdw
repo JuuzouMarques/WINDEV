@@ -1,0 +1,346 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : WIN_FILTROS_DIARIOS
+ major_version : 25
+ minor_version : 0
+ type : 2
+ description : ""
+ subtype : 0
+window :
+ name : WIN_FILTROS_DIARIOS
+ identifier : 0x2197acca116fd498
+ internal_properties : BQAAAAUAAABtRgnQMxiiFSUdCHvMdZKTA+6ClQ3wQjEnr3QvvII7HcP+Jv69hW3OSkCYMpkfhv/ZN7VYBkusgeZ4gZ2BCuuM6ycUd4OVlcxUWdXkmWNIiO/0ZptNJ2cNUXJRqr7OBqmajYbWG3pgfEhuYfGd1wixMl/sjqL4ozgJgkOK7kdzhFqe9bLY24pFbNg3g3gQd+PAc2GeV7e2glWJfhLKyX0hSd5c9w5C9+BKQJI7fiR4QMO99QednggDT/vglkAW9M3YZ790ynRDtUERy7SULTVH9u/X3XnF4JoVA067CrCuKQ/WfTqTn5dggVKcP9gTZhqKQlDj1ihDNTm6l80U/JjHsXXqdmclOYOx35RElKYMoZFywCxr+H4qownlkJcgV5+vHJSal8CuCuRDkvEx8nvlGkiRvdEFFd0Df9qTmcWUaN56udOwj4DR73dP4I2+i7oBqFlk30xIpJ4v+KOzLyIsO7LVncQ/E5AGrSCLLNR/Zdk7u5TCZdU6NB6vcxwiwjcGxvEI312af3hEV8Pt4DsTMpgL1mlbHR/epvGTtqpJAQbuMbhv/QGTabtlVnXgomF35lGIHTO35GoTqhxv1tyo3jpB7rjDd8TjYMB7YtuGbfjeiHnhgwwV+Y3eVOTnsLXRnIlJYNdFrbQIqweH/b3tFHzteOcHMXAwiICRSCHa3DWh5E1H0lSg5qIxO1HEAHZrh2dCLU1MNYfn6kb+aWZ46Q==
+ controls :
+  -
+    name : CHUVA
+    identifier : 0x2197acca1170d498
+    internal_properties : BQAAAAUAAABSsEyqcq/Q/diZpC4OUqelZLwY80c1sDU6a0A+ugC4W7jh+M1IJaS84ub0GU9UuRYltq28w1xLzCgZm4c+bPvl8/Mm8vKXE2ey2mCjbK64Q7lEk55/iYsmWdJ5rczpNArqYquDTTlZWeSHdoM8WKtlXPYeqp78xD/p63fBPHS6Cy0MYeFpvcIHwQE7bOkEFtIomhr0FExA4WsS9tjU8TAe+Pz3DHsmZb3q3O3cAkRLZA+KtWy1E6kDrbE4ViC74k2gUpOmT/GQuBiAK7F7gl7aRaFs057ZWEQBenyC+ozRsml+QUy+nvFEplhYP7dwpy9u7SMWdK+wjeoWQI6WhA0ZnAyZbM+wl3oRx1znZU8NMb4HBMR+xx3mY8zfjRWNJ5t6AD8sfUaRoE1TRSOAYTjGrAP9vAUT9zrrYMcggrq/4TiBwxTjU9kmKlNJTeaCpvDzKbAAhJg3a9MRKfWyj831f5aFqD96k6trk4atuC0joaB3Aube6rN/HxR5iQIRA09WY0NoqI1e34ALIDo4t1AIPfnOtwvGVCtdF6AFCSXjnQoHoXnuWCtcB6M66mgOhgwxA/hSzt9dQYzrQzO/QoS6FYifyMpdmuvuLasaRLpWzB5kAlhJ+svh/lAAtItqwL/29GEdNc+qpc59s/EaJGVLtfp9dQn5YR9cByf5GOjcy0d/A6eLdZKkSjeraW7b31nzSnp+FKulb3tZnU7NZVpNkn8tSSp3Yqsd/uCAwbHlvtrvoruENeaECUouPXpg3CDSG5mmNFz8U4mcNpLDpPPUWDOnYQGc0DnjivXkXczvWfkc3w64IbCnwpa0VVdhKqJHQENf/Vtw/NAhkx4XY7F3g2PSuMuxkewOHpymZ24XN9spNLpcas0O4XtiVXmjCwN2bAsEYchqgHkUT/G/5A==
+    options :
+     -
+       internal_properties : BQAAAAUAAABs/oTNUEmG01JiWBj9vdvKFw0KC/BwyFsJYSGtRHclUTKZaGSZDvtUstfWRnN6WcsqDQ2s7Au0ssNdEBcq3irXlkFTJrEwLoqHVF85Mhlw8MewJSfmlwYQAJltfpuj/vVhnBHiPGvkwrg=
+    type : 5
+    controls : []
+    code_elements :
+     type_code : 5
+     p_codes :
+      -
+        code : |1+
+         // Version 1
+         // Description 
+         // Interrupteur simple 2 états
+        type : 14
+  -
+    name : VEL_VENTO_MED
+    identifier : 0x2197acca1172d498
+    internal_properties : BQAAAAUAAAA4i2yvLcf/9bBG8Dy68/dUdPNzzJlA1K5uFDjBIKm65J6tjW711NBRYiMDHlSbcCfHCOuFBvJYW88VjWM4jFfslpZE8vKy3aklT4Ha+MMMH79TRNZXKEde2eCSHDQQ0kicAolGIimrFe79XrEjl7VXkxorJAraUVdej1wCnnFx4V8/X2BYTohBAdtXtj4NUCVLy6O5df4MwyahEuOy6+phcfL0rfNAwSjBvTT55LK5RRhOdBMyiumg54+ar+8shjE6kaiOGTlianMO1ErsHeQSv7f+342gnmeBTWPPLudu9bZoJ8toBdRyD+SK0EaRFqZt/x9qTsgMgZlIgWiakuGy0eevlXTspXjT49VhVxPtjFqIkK8dUVNaFLU4Dqho3iHfQbpr2TWehVCAjrySvyMNni2xfDdEsstW1lALg+8NBLxLbyDkab88ou79rT0PHwsYyCsPVHPYsOVg87ABxDBhpBEzFedFZwkhrmL8KxSekMmk7imsI7HZQmyJ7FuKLRONPg6B/m8/Wujr1YDkZn0jFedCRcTFAsqOkMawmidjdfomXP9+JdpujUV0h4mGi6PzmnhI8xn+fS1hd9Cr5MkKcvelkj1j5iuxpxXQrD+pRVGTh+YpsF8jiCqsZDnZsBQVDO/A+D1WtASVwjMp/QlLfx3XTsXCmhVfdaZpD1k2pZ5aewAYH9SJxBbW87SJV8dDavKIx1ePK2iZMUCij//fy2wYYlLxlBKsFfmGl/s081WqvlIucw+1zPAIzgzM0x5vCnmsn7lGE9So6OjUukMeGkCbAITiLDrpZGAFPlXg0aUo4HpXR4mx+d+S7PMSBBxc61SoK3polrjod8rT1mRlDu8UV6Csf1nzGv+5KYYsh6lySFZv784dbHLHROF9/Qn0q8KHKJcOcuSlg5DN6xTFzzE5
+    options :
+     -
+       internal_properties : BQAAAAUAAAAYRq+IZfG8wPyRzDQF5i1J5WE8/Yh6ULtUADd9/B2dpmzvEBE/izlelS1NW2d7+wgh6J9PPH1iv8nkJJSOJnYxVKivc9aEgXaXd2GMNKPmflgKK3/ITt8QP75g636GKaQ4hSY+akCKc4t2ka+wnA4T
+    type : 5
+    controls : []
+    code_elements :
+     type_code : 5
+     p_codes :
+      -
+        code : |1+
+         // Version 1
+         // Description 
+         // Interrupteur simple 2 états
+        type : 14
+  -
+    name : TEMP_MED
+    identifier : 0x2197acca1174d498
+    internal_properties : BQAAAAUAAACAmegEB+yYMvqhwshaLrMxpZX03WjMeOTi4RTBqIVDCxXJEOLmsEf/dRY1PJuZ0PeU/4EXgg2rlR6KNwwwKshbcmo5ACfYgbxENp2+mG+ToceJap+RnuFWvu395RMN2xnju36mYmnyWnzmTVRXUljl2B5vwjacmrCvR4THwkyDabudaskrukHwzulYSvQ4/E/SDolMbbNWjUU0j/mYS0dXGNlyrZE1/+S3sGgrONT0lXlbmmdZAyRrGrXVnFIlxBzDyxmhhZAS05nC7SHcCzhMrX86zQ2iXgp4rPM9UOz0BI34x1b6EsuNYZUWpzCxKQk/a3FVf+0mqCXJ7cV1JOASZGuxxDsGIGZzOM+vvcT/1u8Sd6DwigxmjagjsECAKOhVQNtQeGW0dvZBlXtvToKGmTP9SjxA/hlAICaD+g6o0q+IulYpguJG1RM7xGXpf7A+MWRIHGlk6Upt/mgiMuwJhwr4p0EcBypVQT9sxJqOHBqTP++6xPkQUkUUrr6YlZ/A85VHNMSRG3L2lBqf4Gl9xsZBEwqUPH+wmYGuQZETm7P9lVmwMtYdZT4Zm0ToZ4/e5/36PdYg7kWQWKTuitV+Feyc8PN+YmqFGlAIvXtnQYQEJjKdOT04TKXbVACn/PIQ7fquHpa+axqkNWkAuW+ZLOQqVp0ZxHQHXl3XXo8y5x17ZmC4gAycHo/1ARPpVa1aM9HmtXJ1RuDQtHoNM4klok0VqxKEkF8q4v4Ccn3kW9YZDSikzFVEks2P7o023xAIdfhQu27idLSPHyxx6iXkuzuu4kbhFu0JFKPMUoITvmeuwi1sORrJMpLGyj2hEaZxwy9FDmgrOqE6B9owBCW9VrEYlqb+/NGpZeWht9fPbvlXNgloeQZY02HcxgAz2alBjk2ksGyaRbsawIQfMq9s
+    options :
+     -
+       internal_properties : BQAAAAUAAACY1gRUI/UFFNVL9pLwK7++FXeQPr/LlD/7mBHFmocZ7S6LiLYcSxYSHHhlPglX2k1PzzJyN/ynQKcm1KnK9xbUtYDCzQSUGgzA6B1CV773gs0Qcb0C76ZKbR/p1cgfK98JAvq+CjKO6bRf0/rq1fxSfo+T
+    type : 5
+    controls : []
+    code_elements :
+     type_code : 5
+     p_codes :
+      -
+        code : |1+
+         // Version 1
+         // Description 
+         // Interrupteur simple 2 états
+        type : 14
+  -
+    name : BTN_Gerar_Arquivo
+    identifier : 0x2197acca1176d498
+    internal_properties : BQAAAAUAAAAKJmI1vspmVjvYWeO/qyiNPPawrwt6/JyjCsq3Pt8DDrSaHkcHBUF9uUIendFX15C45zBzuZYGLg/kXWNSUCl/IGuKR6RTm0ueY1SzMosuMrzCS1PjBUcIOxhIwXiIC7+nzSG/7h+0Wmvc0iGAyhnccTC+C2OfMmop8HvEgQD+B7O2KyYGDMaQoJCNHxVgC7fvx4guxMiElpznqdcORBlbbbtLZA0g42xwmc153ZTTRRbKfcDptK7c4lC33pCNH+URB3ysP4Gz5S8CJL+3ewzU960EQ9ohKLnzwNl84DkwvuBKDFIhS9RzOOD8z7Zwlc7BDxdBjE870oDvdGyveUJVOAjrkhEa3uMW70kTa+91FrjYU+4iS+3sKK6NLAMoW9bYV9vVnX+f2gb9CMJ83qx7ubZc6RlZtpYKnn2ivMq0H5boij6HTt1gATcIa1hBw2nF9EYKTtDvyTZWW+RFgvz0JpG9Ae+UJDm23TVIeQwCx55AcyMwlkfEgoN59c4mLtULJ8dI6rjfi2/ev8kNWX0WCcdikeAesQIzb+8c4iw4uwLumawZFEnBwHYmFkmgHiOU4YkgPiLBt4EbTIPqCanoTPYwF0/FRq0O2zaDdF8DTGkI09knr+bC6OCXPgPoY4rrLJR3mCxoUE62iTZtTgK1BHp61x4TnGQKx7QfGRY0Z1OLvt+s5lpndDTF9rWgtOOBExp07LWZfLpRXl0io7N541sjKE0HAhBjyFsxRazQMoIzUGSgPok=
+    type : 4
+    code_elements :
+     type_code : 4
+     p_codes :
+      -
+        code : |1-
+         gsCampos = ""
+         i			is int	= 1
+         ResControl	is string
+         ResControl = EnumControl(GR_params_teste, i)
+         WHILE ResControl<>""
+         	IF {ResControl,indControl}..Value = 1 THEN
+         //		info(ResControl)
+         		IF gsCampos = "" THEN
+         			gsCampos += ResControl		
+         		ELSE
+         		gsCampos += ", "+ResControl
+         		END
+         	END
+         	i++
+         	ResControl = EnumControl(GR_params_teste, i)
+         END
+         
+         Close()
+        type : 18
+      -
+        type : 161
+        enabled : false
+  -
+    name : VL_LATITUDE
+    identifier : 0x2197acca1177d4a8
+    internal_properties : BQAAAAUAAACKeA+av+gV0f+RMA7CNfZWV38S6miW9FfQxknU+5e5+TwP1W4cud76+mcji0QSyXDr6DOYn48TniW7xUJIVTmVNmXoN7bmR1dehzhJRNBvo3HpgbWuJPRBU+E3XzamgHMdjAfdPKxZ0VZuuPPabt5Gwnp/UjMlB8f/0q5u9e47cpP1sY94YzU4X+VTz6AljnCN88YNphEcN02+S/gGG/LVESNiREm7NXBOyJlArNqaXbNkEIF7CZOUyPnNlhvXPvlgWlXKqZmZZIQrEYYagS3HHXlJv05SzElOa/3aUi0qQeeH7rQL0vXAEMc+ZhvI06gDaNzDmw02LAsP1Yug6K2LnZdNMwCBhhd+lRWnKMseiasT564k6l/prk/H14xVSzrlHT1tknRV15fw0S16EKDyV1hMd4nOHWyyuWKBdiHgsaJQwbu9QcigMlxhHLw2erNpWNaH6Y0Z3nmkIvCuINWr58NjDNVhknjVwOF+rAh3H5LcEmRi4/BCn9VKHPaIfaPWsJ28OIqD2s48WUXUZqQCRVYUlyljIzAvxsnQA5Qr3zpipcP++RzH++gpT7AlADTt1hImWtpKfGxewqgtMaJuaZE9XCSa6YDS0HjpKFOQVKpfzGgjW7SAWmtnMWkr2gvKa/FbD6I3CA7KdpLeC9f7jxXtK2n07mr8CgC0OCkmn/V6IS/jStvnmmoE1Kz4l+dRp+KkxnounuVghGv79GDJVijdr0qYFbTL/XVnw3onLgQqcvH+Zv8o8sgWJwEdcmDrarEaSNwduDhC6yoNP9S/brQeAJCmNY9+6WWgbk4YWhvz5RKJj329iCt5ZfuZaimBmeURqV6ZsQ/50G7E5FD6/ndsxWSUIoyip52yRRuL/WTdQ7bPOqGRL6ZOEX9yIqQZYDWqxVJXLmDY
+    options :
+     -
+       internal_properties : BQAAAAUAAAB9uZ2XJ7olKWWjL25/EqZVWm5CEZEeLHSnndUTjWCGceEpXPhexICPQsk/fauZHTZ6xdW2LKPAHB3wGXiChk2rS8H8080zwEbtxVYEEpnDVCj87Ikn+QHnVgFNKLHrxJaHAKrlylXNHWGaQRo=
+    type : 5
+    controls : []
+    code_elements :
+     type_code : 5
+     p_codes :
+      -
+        code : |1+
+         // Version 1
+         // Description 
+         // Interrupteur simple 2 états
+        type : 14
+  -
+    name : VL_LONGITUDE
+    identifier : 0x2197acca1179d4a8
+    internal_properties : BQAAAAUAAABsYk9AjG3bwStgNGNUpRszY+T3mzjD0lumI+0RkfuYLPD2nEUW0PxWeDyHGEREXpuJx/ifU8qFZsHmfWXoYYRkrqrNFI634a5qHiSE2JiQZje6tl2hY3ADJvCksJ/1hRxcHukELF+oURauTiO/cENhXqXDbBs36Q1rDmhaGvKt3iV71Zhssy0yAz5f7edpEjsrxT+I+Fn2Qua41dNrBwAi27wjB8iYFU1zgcph0u040w9h0z98wIA0SVSzxujlvIQZ2z9/TOKSu6NrKtlcgjQZhjPyJPDtucStVzIl8KcVamcmrbzbYfNV1iwKEpkLcosN0ubjEY6L/g00/YyNjDoDKtjOInYUrSlgnWCs6oqQ00qDMGO9VB4CZsAlOtSFwubkUTpq06G7R0GHQxOfpgMin7NTqNmNpxoQn+JsDA3up08BpI1ixjUuwrjG3D6kvpAsYT51wnNCPcpbIEWMAGjPFpADYOp3WEt+c0vRzijUuxtRKOpDjXr9lChIi1K6jK/5c69uNdin+7mllwKmBusskifw1wYBj5MIby25NwrAk0NZ3+U7Jx7YQo/bkNyngwD04foS17Jwx+VzcPV7gf3udIxv3qkiG+PzfzIsWNWVUEX26CiCwWDFHexRCmPzT9VR2JGvNgDF72+BZO8+cZwZviBPbSLG8isjrQql0jFtF2CFRbeaeNmmw49Am2KEoIFGjrJAs2IyS9iJckonNpfsTiAZt5mOMWskOGdg92BK3injwlU35G1WpmaNXag789ar4RuCM7l/JQ7QT7Av8yAc9SODP7BlIXiJzWMnNqTfQB+XRv1MK+T03qXIqGcpeh+1T5YqnLj7EjEFmQo9ntpaniQn2o+X0/UZHE8D0uH0AQzv4s9+ZYX+3gtlEk2ad7B9h9HABZKcFBZlYYJmWZM=
+    options :
+     -
+       internal_properties : BQAAAAUAAABq0BHo7UKkInLuDY/BBRW7FtyTIV2API/DGJVoNJ6fD/3IHd2MiQPOvqtEAjFlQMWX9yHsvIM5tNIEUyNtdAJtqeVhGFITQ/iUVYQPE5EO2qJcO4IMpzZ/e4NlDEV+RrzqR/PC44d0La6vVVWx
+    type : 5
+    controls : []
+    code_elements :
+     type_code : 5
+     p_codes :
+      -
+        code : |1+
+         // Version 1
+         // Description 
+         // Interrupteur simple 2 états
+        type : 14
+  -
+    name : UMID_MIN
+    identifier : 0x2197acca117bd4a8
+    internal_properties : BQAAAAUAAAC7ldGvwaThFWtXlngZAWQLZlf6JrBQrqTzZxJ6X+03hpGUlsHIxsx/EyC6Zd1fnVyHAemL3agpqcb41FN9A/6x7ll1MlSjtdeeAIsjDIWLT7LpMq35ZzM15RwZS/7hc4wbf1vPUUiUwuZETOieV4tpoSvM1yuJyrZCwEfP0TdFv8KXK5vreHHB+M7pduIIFO98eW6qjGK8Uwet6+KUP7VbmKhbVBxJ7ijxaPaaoGgC2zs+QxI1h4+1GhcdlRy7CiBaopvlzW4022mP+FAib2t6jfA6cYBOFs7xhJ65bE4oZJL1LBBZk5Y+15TNsS3BkHvyD6VvNum9sWO80GVBuogGTEmMH0D6R4NKUIB/DSAr6ThQCmCs5+JtXrfUELJJqrfQjDGjWupQ/5uHEUxJwB0o3c22+H8xM2AbH0tCOjbJt1EwM9lfJC2rKfs1iLF6W+v1KWKRWXiJ/6pso1fBx/CwwynxkieQqEIR4siPXwMCrZKE1H4YyNgkPKKnB3k5y3QK9qruTkyeKezXN4sYEwvOsL9yXmKG7ZEOyIhzqGbfynPSnhQqJjWNg7eabvf5Y0QYdDArb3JRqDU9m0XX5Zvno4c59wkCE0CXnX03ZiYd6jbFuYu3iSoulAxMF6GSLA8IemedyPpdlzT5juQdKCsw7JdBuwUvQdgZ/yggk/Y8zk/AG1fg4oU2PtIQ0tSMF/BIrKRPucj63krlh+OmLiOEdIoi+5eFtHQbZvQ4JO8dOzdfjbzhYZ3VQ7l7zqmOXISX13zguMuAl9cNh/gT7Ew0GgukwCmkdsIoYm8cZDTOnppkNJ99soauF07siHerXrpsaf+B/A3NX+CZDLHHbFzAwlNuYAljGPBCNY/iZK1cmO691BhbN+dBpveifE8EUaSrQllDAZO19AoMTVPRZCjqrqo=
+    options :
+     -
+       internal_properties : BQAAAAUAAAClbZ74ee2ZpZH6q7M+qS+sYFX2vS4Fqce9LuDMsO+eIu5xWQ0l05/RY1db7nirzEu0jqX6e2Z40a2173BKxBJ1veIVVhbPBjz6naT/W/Wd15NAYCf9gY+JRhOFKBZQhi/UA1eIz0OOqX/4un9lXVFPdkCYTw==
+    type : 5
+    controls : []
+    code_elements :
+     type_code : 5
+     p_codes :
+      -
+        code : |1+
+         // Version 1
+         // Description 
+         // Interrupteur simple 2 états
+        type : 14
+  -
+    name : TEMP_MAX
+    identifier : 0x2197acca117dd4a8
+    internal_properties : BQAAAAUAAADhwBvQ5gK6MPWFIyuV7vJRecxu3YrXW13/5/ecE0Sl2atGGNuK089Ym3pqR6E6l2SIKSJy0+EPMkysnCZng2bNb8YZgmUnsk5IwEMQ2HfUBfdFGhA94I2iiVLxFJay/HoCnEPoJMs1X/DTkP+N8VeRsdwtzowkk9GYZUaYsFsTI/0ZabKSqEqDA/lptNhvJSl7FfnrU0ruGwJTIsm6M55jjcA6z7kk25h9PwQfBBKVpxQMFn185ntQk4n+/V88Qpuu33rET/202icwQHgYKcCcbwGssReM+P+lF5uZaiPG675aqVkanQK6RxIm/u5pkmhdIcm0wHi6jZ0y+VbiSmkQmcGlR9qwX3i3Dcln88c9Om72onlr3YXmSG+w+LCgll8HC/glv3GInZzqenKus6MTyqOz2gXYLBvqqCw9L9NFGlhxAcb+5enw1ijVe60fj0mIehntUpOesCWTREFSteEWqyy0igwaMlIWOfPVFK0nGYjnvz4ZoOxiN2uWoVBv9tgwTVOqNzC2M3nmxnHND+qAKP4/RjVGgbuPv/OdV5Tsdt1FQXh3LhnfRghNOEJfQMh2AU1Z7GKFUjb4nLWYkapnKTYK29bkpSh+8u751RhW8jzGcEumDfKEmbk5uVY+1b0Ux/AtDSLxsWHslxjWMlIQwtw89x670QqcnLsG7F4L/kkxkDlBMCPmHV2rKOHu2MBKATfR+GDWUKn4vgVvtPDI2rfpmaBjQqAeJ+u0xY26dbfUsEC87cXLNgpyRLpeYSh53Kva7Ws0YUb6mt6CTBHopIpNPlrUGhI+u82Su0rVRuAfhWPo8DAW3pTnd0aP4dysvqfF+IVF5cMbMu/wuXt2GfpPjG2f1iCKYbbCMo0n/DyNU1tUwptouwFW9VLsDBrnpsWELYr7YZfoRtUKrst+Buhg
+    options :
+     -
+       internal_properties : BQAAAAUAAACgpsdCk9zSqOhc/x03W9sJJMnkhU6vCllH2HsuCvw9RUtm81ciixF8LDEOMD+j7mMNjf+udhQYsji6qaXfwsxLx0uPiuy57bJCg6LZNX8ogMjqVW4qTRhOSwWo/ncsEIrYtWFUXQ3+tyRVix97
+    type : 5
+    controls : []
+    code_elements :
+     type_code : 5
+     p_codes :
+      -
+        code : |1+
+         // Version 1
+         // Description 
+         // Interrupteur simple 2 états
+        type : 14
+  -
+    name : TEMP_MIN
+    identifier : 0x2197acca117fd4a8
+    internal_properties : BQAAAAUAAACwM/QHNT+nDViuyCSC6/9snGsLdNEITDbmDAC5uNFSTBbVFcadzPipyqubhtwT+J9PgGMNnnrQ40eN9bvw1M90DmEIZqACn9ml8fkChpVqKwkjsO7zPhtAJyBUFirWrEymNqVmDpvHT6SxTP2dIStP3U6T5M4EHZGMQxrGOKNLFbGb48Qk7Ghn27Mp7nBXRqoby5vRLTbEu7aJkksSIzLh6eo0nbNQ0Sh5TazJbKI5zah+DJuqYsFYRxfKNw80TtFiWeiOSRlyiiveDMr0TWTqHxf2dzUItg/RBTMXjk+mtZ6Qd0v4VbSiZyRiIF6RJj4NL0fy1tB0CalwQcBK6lnSaZ9PNaSMNRhbI03RT2PNhMpoSGfluTviJI2YtjhQZuGHiXorSeU+dQig5pwav+OVLl1ZZD98CrMm7hDTw7c1lESD/5BkyT8smq5lzcVPT7M4eAMXTBtgGAX8N4wtqMT96BXP6RMBE9U1GtZop7gSDF14Ci0oX+2lBrhtqBeuMQ+x0poVWttbJlwH+Qyg2qG/6Tv+eYABPlZiXBp8touXIU4qeLNKEQbKQVEYMwXqz1/n/tTs72U62XFdW/wnaE2GNuvhlilPAuc1wxns+OMdwSU3g9qVHAs/nMbQYDVNJJC5oAvEVIliEJjRlq/1AS13A6FDkvHuFtGjMfol+30K8XKux7TUWxAlmFL6X5Bda2PXzj7cY8Prh5z1lQy+EwNbb4B0n5dqC6vFZKozDHS9fLTRV+sHWOounTc5k8kNEN9WXcYxlJIdWHmz5eHFl1w7MVekCZ2XJz3s5e+omXwLAALxB6Gu2t7EgEANFy7F23XBU8wgo8KwXnBQ71JbXtzdhmec3ygk99F7kmcRQZ4U7zH6wO7HVzaFhFo/zGnFNcEMQ2pvMI8Gauy9q6glg/wtV7mx
+    options :
+     -
+       internal_properties : BQAAAAUAAAC9g9qnuBGL8SGnVkT4smLiDecCHuPI276wNzph8w+c3pSjHpxr7ELRxYwNayC68QCqRv47mykZucuF7BasMc+8Fkoy13XEKgWBQtmuDvK/FT/hUOO7EO2RvoBgFU5FeXEhfrqLFFZFfPl6oAJm
+    type : 5
+    controls : []
+    code_elements :
+     type_code : 5
+     p_codes :
+      -
+        code : |1+
+         // Version 1
+         // Description 
+         // Interrupteur simple 2 états
+        type : 14
+  -
+    name : UMID_MED
+    identifier : 0x2197acca1181d4a8
+    internal_properties : BQAAAAUAAAD7VRHvgeShfLu91jgvz4hXIhGK5t6m0NJ/8boumafvVrnCQsXe5H59ZzqaVThLAyYh/8ttA4Zv65zWymUDqdyT8EdPBrpRm13ARiRYa+2r97Yp5uGhV4NpZOiv2TjbQ9THXR8zf/7mQA6mGCz0ndc1ie04O8F/fJxqmuPrr/VhS951j3/xbrvvrGw1GuAVD0ucew5K5pR6OUPjz1a6xeWbnFYzbB6rbJaxCop+Ri6u7/cEB0aXaSU3/r1VQXrxzmwuONM9i4TuiRWl0ESg9XNyTfIKycIolLw5xsJJBgDwFLp/ZJhrzfTID361xbt/DKf+bTHb3A/v48N+cAWrJIBesK+IWxZ4OVHS4gyvxwJDGbwOdly6vSRLgtVUjBi3Mp/4dtUv0GjS+Ztp5bTj4v0IJScukLXXFTZTWYM6/PAJd5n6G0HFok+JWT0JZH9Y92dlq14NQwL3BbY98gAwmKtdfnIEjzqFQ88MGz9IbjTdspGJ0/+fQd8ttys+qFgqZpkpm8lP7eW1Pk9ovhSffKJnf0zh3/knfBbhAV+s11f2y7ZrQXHda9A++jR9AxLOFtl/wY+8zpNwSYjuokZGdhIYpriMJNw3nuli9szgfQ+0I7FevJiqnlXfU0GnhPRf1/wv3ybejzsszOdCRSVM6eZ1B5h88NBk3BFglFvtJlPjL9JB9vxTd6DDqWuHW6vV1iHHgZPQSHER/91ufrRNtxKVZxuN856GE/0Wd0Mh00BMhIJI6GFcrnACHuJyjwgPW6X+bNMpbxR38HZyAkWmia+pwaAzMaClJ0vhqNmibjpIDDRCFj3fEKgARTw6utHRgk6MDR9hICFJ98ClDKlzgMBMap8GyC+uuTu3xBgZDRTxQytsSQN4koyIXyL/12QP1t+gud7Ohh6691PPjRORpGiq7mo=
+    options :
+     -
+       internal_properties : BQAAAAUAAAAt+pPd0gNeZ89/AcqUNbG4dXWvG/RXTJ3gPJkW/ZOlVpZiqKcsOun9PphUqnWxgo5zWl5DceupOUC93VFDIPRPb7BwzKUtTvDdDmgATkfXiVla76mMc5PpY97Nh7fiZCV0l4e/S0+YZ47lNmnQSIgroj2cnZIJ
+    type : 5
+    controls : []
+    code_elements :
+     type_code : 5
+     p_codes :
+      -
+        code : |1+
+         // Version 1
+         // Description 
+         // Interrupteur simple 2 états
+        type : 14
+  -
+    name : DC_NOME
+    identifier : 0x2197acca1183d4a8
+    internal_properties : BQAAAAUAAACUOsY80EF+H7r7LsTQ/EGPnmaqHa0vRt8c3epUpApSLeqDWq9uV7q25OCON3FOA0iPCNeWGYbh5gLLTR2g7nVvdQU5zDZOgJyAfiqvODhchW/IlpnzDyBpQ8GNoZIX0uhwuInpl5+7PzrdPEV6Hmm7mrzM+KiKLuUXuUUT6rqomRMC79+bKzwd7yepXf9ohfKY4p744BwU3dPS9sxoUWDWUFQjAPemmVFavIXYBtQzjGdioZiBq52XraHAMuTz2t2QKj8qI1G03IgIGwW3UkZapSHgr0qh9BBxkuTWfoxxmnlmDfCyNl3gbtB4Qys498deDR/CwIcM8WJWGPryVM1pRHRFkKPoA5bJX7S7OV+tOUanwJhK76mK40Rv0ekFx+tayPPYcbZdLKV7/c8M4bjW9GNZoNmre04L2D88RsIncagxn2gHmx2iklPJsYrqFihLadQE4IgbFZ1b+8OkAV+bsUCv4mkcHX0l7WiDSr+VFyLxlHgwpJUhmW7bb3zTjWVAlc0S8kfAARplAtC6oarWf7PgmfXIPg2PiZqT40cl8+RRy4Posr0uGZWUSIIY+BI7FRrE2PF3U2793bkJ/GaYT0qJAgx/ZPX4Rz3wZrywGvD2HLJj7LXLSApKQh0c8u2Ifntnh5lc14DPhcc0Zodpr/yPd/PjA0HWoUFv+gLGwVkRjQEttzzOVAFlRxA1uaetlAwgdgUn+QWj3wyHL/TyP7Rbm0QdDNXLLB5Cg/8X7Oj9MC2W24AeF1i8r/TmVh7QGR8gTnoedW+yXLQtSlU6Phlbz16d8Lweq60jsh1WPMD7vtttV99rdSmtCw3bsCTJwt01K3WWooprbUR9DQ/RfWXsntGrl/IAAP4EhUDFYeUzzhAKhOMky5UM4899MSUYjiV6/2oIHtu24Wc1ng==
+    options :
+     -
+       internal_properties : BQAAAAUAAADlF6qD8rtKya2T3t5ddUnBngMu3lgdmN7CZfbFVnAkCr4a62lrguTDHp9t/1Co89MXpO8slCSsyI1c0up5vbS9/obPZzd5dwp/8y/SD5aG7u8ViPhsNJe609V9NHhmWAut89pOHkPmaw==
+    type : 5
+    controls : []
+    code_elements :
+     type_code : 5
+     p_codes :
+      -
+        code : |1+
+         // Version 1
+         // Description 
+         // Interrupteur simple 2 états
+        type : 14
+      -
+        code : |1-
+         
+        type : 17
+  -
+    name : UF
+    identifier : 0x2197acca1185d4a8
+    internal_properties : BQAAAAUAAABEiqdopGXDOYOITKusbWMrC9zfM2ArykOu2zVp2bPQ1Mi+1A3O6MROUCRfgByMJvORvyC3e7I9jml+JR0QmRwsZu4iJK6J67o7iK50zijq5M8wMufbA0wo7Px2HpmDK8JyZCdCmjmmc+R85PGZ3qnP9IuxSmlxF7/JnL6oNCBTnIOBs5aK7UtMqYS1a3rf5kCb7R8gMHG2ysZYPXsjFwgaY6w7B3gYfd3reeqhEjXo47/Z07d0aIB8mXTLDjBFxEwRaydvjNJae/sTSsm8qpSZxhvCbLjlqdx9Jzo9+Gct8p8G9azboTuVLvTaUtnj8quN+rb7+eYLFr3k5fSF7DKLYpi2InYUhRlIhfDMygIwc0qbsIvFLF7KpjDtkqy1Kv4sITKKM4GzVwlPs0PPPpNin1sjABGVpwIAjzq0dB1mr0eR7N3Shu3e6oCWDE7sXrBMyY5dSmsCGS5vxBGYzGSLUkR3XJZrbHeiJ//tOuSQ91cFXCYfEd6ZuGwcx17GqGsFd6P6ocyLdy05C54ysqfIDqu04yKF8y+s06EFo3YsH8/dk2Hnm4JE5hNfDKjTn1zQ1f4uw/aUwzlnBOFXnSm6IDDz6uXmD6+30+Z4xCERDAEa3ATetUTBAeBlhq9/6zGNrOUr8tSJC4OVCAuqrdj16tTjaT56prf30T7hfn3p81zpOSNWDG0yVxMkd94gDG1SgvacT7a2l2y9FuYDghMN4a2nKTsMs+36Xg06+X6kdC/ZiG/ZumfwDAwzd1JRNXRZBzFsVd+ZH3TGpRpB8dJSm1lJoY7tRRMcJuzcg2uoLWpYR5yDfjW9l2wfh+vxMldN5z7yxFCTqpm9wSIVtsJC5ux/cud/u90x5IfLmiksOcQnqvdGXX32xiMNqiWyX5hFz6n43foE/A5teapOQas=
+    options :
+     -
+       internal_properties : BQAAAAUAAAChYiBtwJ/UCkhFo8biFLizER+XNzE2ahDjhpFdo4JoEr0e3hKV3le2VmI9qAQLnE10ImL06axKIlgHbIHB7rQB0aiyivJ/A/a6ziOt3cG6lt2coBnVsHMlVaiiPbY6xZguOiCyhg==
+    type : 5
+    controls : []
+    code_elements :
+     type_code : 5
+     p_codes :
+      -
+        code : |1+
+         // Version 1
+         // Description 
+         // Interrupteur simple 2 états
+        type : 14
+  -
+    name : DT_MEDICAO
+    identifier : 0x2197acca1187d4a8
+    internal_properties : BQAAAAUAAADgxgJwBKXS895vkjAk8EWDgkpOiVlbgptI2fZocLYOiYb/NlPS2276WLRCYwWCxwzDzFsCtcI9Ul53KQG8WkGbwdE1sVrU1joG3OJXcOrScyHizGdTIQbD5nbp9byzErgg6NnRER+nPzqtTmcY9tlLHqiMoNb+Fi1PiYN5xNagGSs6f7/Ng/hl11V7P03kuhIYEuZw+AQEJQsSNpyoKRjO2KwTwIdGsXE6RG1QnkQjHFdyuaDpE/0/ldEgMtSLsvUIAt96U7EcPLjgs80fstbKRdFIh4L5JBhZAqTmruQZAvH+rTCSlkXwbtgQy3NYJ6d+DQf6WN+cKZqWGIryzLXhbGy1YMO4yxZJF6yjga9diVZXWMDCl7mCW5SfcUldn6PiEBMYwQa1vMWTxefEEZhmBPOBCEFTa6bTiG/85tqvCQCJL2iX+1WSggsBiTIaRugrGfyMKPBbWdEPF+e4HXunjayz9u2YedFZsSTX7hvRU/7NCIykMDFFTaJ346BvqXFMYcF2BmPsJd7J7jQuTSZim59EHfk0upFz3WYHV6NhrzAtXyc8DtmCfSmwfMa0hJ6nQY4o/P3Td9KhCa39yHK0e3adZpD70Gkc62mUyigspkxSwNa3SNEfvJ7GBhFY3lkUSu+b6xXIu6Sz8bsIYkO1azjDW7cvfwVqJd0Dbo6yLdWNAaVxQ1jyuMWxO/QxZWP5UFBkOkEz/RnXGyBLa/C7ZFGoUr/Ab/5Wtyul1rrcty9EP0KBLpPzrq8JSkMli1HneH5NnTndsi7xhUO82cY5IQTwcISOLXvXNCRELy4hibH0J2JWjChyOo4B/zmPBPg9vsHRj8nibkbX2dDBycsNOZmYYh1nSyZ0tCLYUZRphYlf4gwOuB/gt4F4f6OJLSEUghEOa8Zsgn/qlatxUg==
+    options :
+     -
+       internal_properties : BQAAAAUAAACm9472a8B1aAtXuKPDzK1e2Y6G7LaS5qe4NIZoihWFjiUGW0S063DNetf1f/BAdquLqlqgO1LaVyL+7l/j4kCNXUTmhhIZmRyUWJm5J5WuxKnmYzUxrushevXfs/5ZHtb4dFvfIbWni/aOU2Iu4N7AHsovFeE=
+    type : 5
+    controls : []
+    code_elements :
+     type_code : 5
+     p_codes :
+      -
+        code : |1+
+         // Version 1
+         // Description 
+         // Interrupteur simple 2 états
+        type : 14
+  -
+    name : CD_ESTACAO
+    identifier : 0x2197acca1189d4a8
+    internal_properties : BQAAAAUAAADo/gpoPG2qK+YnWmjMmH1runJmMYFzqoOgAS4Q6M6WYa6XHmsqw0bSQMyqWw2Kf9R7dPOq/TqFOvafIQm0UkmTSUn+LWTARo6aCEAxLlaqw9VW5M8lVbqnFvyTn9rTjjScxNGBF0Mjj7YhwG1a6t3PHvhcIAg2fhUTbfFLsu60DT8mNz9rr2TtE2vNDz8oBXI4ol5YoJw0PdOStiwoESAW8NRjYDfmebGavIX4hhSzjIci4XjB67137SGAkuRzWl0w6r9KoxFU/MhI22X3UsbaRaFgT8ohVDDxkqT2vsxxmplmTZAytv2AbtB4Iyv4twf+DR8iAMcs0WJWGNqylE1p5PSFcGOo4/bJn3QbOZ9t+ebnwHgKr4lq48Qv8ekFByv6CDP48fb9jKX7fS9MYbjWVKNZQNmrWy5LWP+cBkInccgxHwiHGz0CEtOJkYqqlijrqRRkoIg75U1ri9O0sQ9LwZDfElkMLc3VPbhTGu9Fx3JBxKggVGVxCf5r/8wDPZUQ5X3CoveQkcr1EiCKEZpGz0PQiaV4Dl0/GSpj83dVozThu/PYok2+iSUkWFJIKELLpYo0SKFH457NLUmZbNaIX1r58vxvdIVo103A9iwgCsDGTGJTnAXbeNoaku1Mop3YzquXN8msp3DfldcEVndZv0w/J2NTkxFGMVF/irL2cenhPTFdp8xeRFE1l6ClKZe95LzQpjX3CXVzL9xXH+TiD8TZcfKrWuuhYkQ04Z3dtt7rpruEEXbUfc6igWqcfMB2h93GDKBEI80AqlazeEOkvJcTUTnbMr5saev9pBtwav55bF33Jamt61/4x8EX/PA1tsnZdyE6xu4PgWhZIXO1QaGQevVPMw5svDrAeXwBHSH3ClS20Df4n7kgl7th1Uk8qsnGo440yrfSjbN5Wg==
+    options :
+     -
+       internal_properties : BQAAAAUAAACh8JOTBtJ5fim3GE2hoI1GOyIM3GCeeAfIC+hU7lgW4q1kw3Q8QyC1kj/1N3AAdiNTUirou1IWo4JOYiu/JoShQZi6+n41PUAwdE1FszESyK1q12tTxFT5GiXVjoeyR29DPfxKxqKK7hVtssFPzevRMeUyEuY=
+    type : 5
+    controls : []
+    code_elements :
+     type_code : 5
+     p_codes :
+      -
+        code : |1+
+         // Version 1
+         // Description 
+         // Interrupteur simple 2 états
+        type : 14
+  -
+    name : CBOX_Interrupteur
+    identifier : 0x2197acca118bd4a8
+    internal_properties : BQAAAAUAAABSqcuNvR21qk01soZNgCbJuFyVBxw/fGUfu0RHYncgXNM+AabfeQuaRWkIXDXqy8vmzmpmcHKVVM03Q7ud6sU4KFSQnNBgCS/+MJrE8Caah0HZMe0FXlhlvsM+/jt9VW/oydtfro+HihDyfs94yxfEuDXJ7pfP675YJkyntMfqFq4/Z5YAcHdaFzNtMWvB9Rh/nsyEyyZaEx8QNy6BmT279rZPjtLSRJxvC8vrcZkeplgNJgqH1KF698lU7RiJ/Cg6R0NEwfXD7LJjMMCe5UHb1CI6ZqWPztzWgmkL0IxVJ6gX8Bq9zJc91SJWXUmztN0REILUr/kfxWSx3ggbnr9jtgfbYNpAgQVFYd2bbye2N75dPbw3cC8jyG3vsnYyv06DpbZfrNvAsEVOzdZHuN2yuj9VrSIs718t1DI11MYFwzmTJ6aCAic/lKWjn0qNmaikGhweifrRXWYsCULZ9lAT8abDj/m8Y71YSncelth14QULoKKSy+iCYWHnydzfaj10XE1buoBudGu9bcIfN64TQA05ndU9sMnZVAm9EJX5ymGkASND6YvsPveLMMsjzudaPW03uPoKs33eYuHNd2Qc7CXIQYDpTpNrn0jUOQ4PZ6D7wOl87N+xUr5WMVvSW6wcd3cqPfo/NoA9fReU9E6x5qIOvBQDKjVuxpYexpr9NZadHWIe2jCllun3bYD1NHJyFpyw6o6/+QVChYaJ/AEaUxkB1HKWyeSBHfr+8oohott75DA23DSzT+r4actjxGCKxU3QI7VQ5c/CIfWiuPsbJ92C7i/74bFAJbsvxzX4F7RH1Z+LlIWK9FBz0NlzGPRf9wYWzh7nTadwsMbZBDwuDjFZk26Oi/bAntVP99k+2dT8uOQZHeu1rrSa2qhf6o8viw7i5jYmlgycapPGQpaMPU/ZeBToXvBFJL0KSyDWVG4kT5PrB7ufZUHomsCWXd4=
+    options :
+     -
+       internal_properties : BQAAAAUAAACnfpzie+FywwZ1nPcrCwf6a69Lk1q7I5zvXUCDpV7eLS0JSMfpS5xGbEnqNGEh6AGOK+iwDpzuNl2xXfo3ScgZnGBvgkkWHOx1Gx0bkoTiSKoKX5Pu6Z8LlEKHxone59iukseUAA37jMt+e6RbY2V6JQIay+yjCvLI8wNeMy4760QOCIOW4IjWlEQSSzKrQHb2+6L74i9CL1+SDLipfnrXGvpoiDN+gexVL25Jicbmdpc=
+    type : 5
+    controls : []
+    code_elements :
+     type_code : 5
+     p_codes :
+      -
+        code : |1+
+         // Version 1
+         // Description 
+         // Interrupteur simple 2 états
+        type : 14
+      -
+        code : |1-
+         i is int = 1
+         sCtrl is string = EnumControl(GR_params_teste,i)
+         while sCtrl <> ""
+         	{sCtrl,indControl} = myself
+         	i++
+         	sCtrl = EnumControl(GR_params_teste,i)
+         END
+        type : 17
+ menu :
+  name : _Menu
+  identifier : 0x292573e513b5f221
+  internal_properties : BQAAAAUAAAC2sxIr75L9BVZEFcKwPIfBCu91Xwd9NTG26EFA4m91l0m253CEJBDQYJecGykkUXZ0IKbZR75QAJFhq33YjxLCdvz4dTsoR++evmQYfh8Um5VHdmZw07miSSbmOXpEgz2QNozeXYsAnS4uEOz6NbWbbwkdLdgWiweYk6s=
+  options : []
+ languages :
+  - pt-BR
+ popup_menus : []
+ message_bar :
+  internal_properties : BQAAAAUAAABqPQh6HC8RxAVkp2SqPYLuZrfVhd+1KX4lx22hIT8uqEpE6yP7Sbc2rmVqdmL816EWzXOkEe9ijOtYwchZKAfpy3B1cNqhpJgsnbUs
+ code_elements :
+  type_code : 1
+  p_codes :
+   -
+     code : |1+
+      PROCEDURE MyWindow()
+   -
+     code : |1-
+      
+     type : 34
+   -
+     type : 230
+     enabled : false
+ code_parameters :
+  internal_properties : BQAAAAUAAAAwjDLmDSZ0H1P68nJIeNfqR9EvRjU/K+sVcM1T6rhVNr+VTV1mZ/rmoweYbFDZUhBGcv8UsxlDxVCOnb2U/SQOvlGWzNby3/w/V+ppSymxv+Vh
+  original_name : Modele1
+resources :
+ string_res :
+  identifier : 0x1196a6d100397ee6
+  internal_properties : BQAAAAUAAAAa2Zm8J9E/zh+/WIrVvz1fER/So3PB0gjQuxc1xKQVWY4ZDm5lfg==
+custom_note :
+ internal_properties : BQAAAAUAAAC68/W0/adbG0nFCRhrE42B5HRnbDzVHaz86sSQyxlBk7I=
+rad :
+ internal_properties : BQAAAAUAAABoAN7PLpwJW3EiA7WVZdCA5EwrCA1rvutcDHooMWKe

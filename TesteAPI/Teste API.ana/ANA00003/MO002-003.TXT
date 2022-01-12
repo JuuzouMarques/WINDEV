@@ -1,0 +1,4 @@
+//MO002-003.TXT ANA00002 TO ANA00003
+diaria		TAR	673	new record size: 673
+diaria		IDE-*		file without identifier
+diaria	diariaID	RUB-		item diariaID deleted

@@ -1,0 +1,2 @@
+//MO003-004.TXT ANA00003 TO ANA00004
+horaria		NFI		new file
